@@ -1,0 +1,12 @@
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\bin\Debug\agendita.exe.config
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\bin\Debug\agendita.exe
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\bin\Debug\agendita.pdb
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\obj\Debug\agendita.csprojResolveAssemblyReference.cache
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\obj\Debug\agendita.FmContacto.resources
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\obj\Debug\agendita.fmlistas.resources
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\obj\Debug\agendita.FrmCiudad.resources
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\obj\Debug\agendita.Properties.Resources.resources
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\obj\Debug\agendita.csproj.GenerateResource.Cache
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\obj\Debug\agendita.csproj.CoreCompileInputs.cache
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\obj\Debug\agendita.exe
+C:\Users\rolop\OneDrive\Documentos\universidad 4to semestre\programacion2\agendita\agendita\obj\Debug\agendita.pdb
